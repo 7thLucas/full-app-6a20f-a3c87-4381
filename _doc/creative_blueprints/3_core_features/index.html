@@ -1,0 +1,53 @@
+<style>
+  .mode-landscape .sl-grid { grid-template-columns: repeat(2, 1fr); }
+  .mode-portrait .sl-grid { grid-template-columns: 1fr; }
+</style>
+<section class="w-full h-full overflow-auto bg-white">
+  <div class="flex flex-col h-full p-12">
+
+    <!-- Header -->
+    <div class="mb-7">
+      <div class="flex items-center gap-2 mb-3">
+        <span class="block w-6 h-px bg-amber-600"></span>
+        <span class="text-xs font-bold tracking-widest uppercase text-amber-700">Core Features</span>
+      </div>
+      <h2 class="text-4xl font-extrabold text-stone-900 leading-tight">Everything owners and breeders need.</h2>
+    </div>
+
+    <!-- Persona Chips -->
+    <div class="flex gap-3 mb-7">
+      <span class="px-4 py-1.5 rounded-full bg-amber-600 text-white text-sm font-semibold">Horse Owner</span>
+      <span class="px-4 py-1.5 rounded-full bg-stone-100 text-stone-500 text-sm font-medium">Breeder</span>
+      <span class="px-4 py-1.5 rounded-full bg-stone-100 text-stone-500 text-sm font-medium">Equestrian Enthusiast</span>
+    </div>
+
+    <!-- Feature Cards -->
+    <div class="sl-grid grid gap-4 flex-1">
+
+      <div class="rounded-2xl bg-stone-50 border border-stone-100 p-6 flex flex-col gap-3">
+        <span class="text-2xl">🐴</span>
+        <h3 class="font-bold text-stone-900 text-base">Rich Horse Profiles</h3>
+        <p class="text-stone-500 text-sm leading-relaxed">Showcase breed, age, photos, discipline, and key stats. Everything a match needs to know, at a glance.</p>
+      </div>
+
+      <div class="rounded-2xl bg-amber-600 p-6 flex flex-col gap-3">
+        <span class="text-2xl">💫</span>
+        <h3 class="font-bold text-white text-base">Swipe &amp; Match</h3>
+        <p class="text-amber-100 text-sm leading-relaxed">Discover compatible horses with a familiar swipe mechanic. Mutual interest is confirmed before any contact is made.</p>
+      </div>
+
+      <div class="rounded-2xl bg-stone-50 border border-stone-100 p-6 flex flex-col gap-3">
+        <span class="text-2xl">💬</span>
+        <h3 class="font-bold text-stone-900 text-base">Protected Messaging</h3>
+        <p class="text-stone-500 text-sm leading-relaxed">Chat with matched owners in a safe in-app channel. Contact details stay private until both sides are ready.</p>
+      </div>
+
+      <div class="rounded-2xl bg-stone-50 border border-stone-100 p-6 flex flex-col gap-3">
+        <span class="text-2xl">📍</span>
+        <h3 class="font-bold text-stone-900 text-base">Location-Based Discovery</h3>
+        <p class="text-stone-500 text-sm leading-relaxed">Find horses nearby or widen the radius to discover the best possible match, wherever they are.</p>
+      </div>
+
+    </div>
+  </div>
+</section>
