@@ -1,15 +1,16 @@
 # Product Overview
 
 ## What is it?
-A matchmaking app for horses — connecting horse owners and breeders to find compatible partners for their animals. Think of it as a swipe-based companion app that brings modern dating-app UX to the world of equine matchmaking and breeding partnerships.
+A matchmaking platform where horse enthusiasts find each other — connecting owners, breeders, and equestrian enthusiasts to build breeding partnerships, find riding companions, and grow their network. Brings modern dating-app UX to the equine world.
 
 ## Users
-- Horse owners looking for breeding or companionship matches for their horses
-- Equestrian enthusiasts and stud farm operators
+- Equestrian enthusiasts looking to connect with like-minded horse owners
+- Horse owners seeking breeding or companionship matches for their animals
 - Breeders seeking compatible pairings based on breed, bloodline, temperament, and location
+- Stud farm operators listing available horses
 
 ## Positioning
-The first purpose-built, swipe-style matchmaking platform for the equine world — combining the simplicity of consumer dating apps with the specifics that horse owners actually care about (breed, discipline, health records, proximity).
+The first purpose-built, swipe-style platform where horse enthusiasts find each other — combining the simplicity of consumer dating apps with the specifics that owners and breeders actually care about (breed, discipline, health records, proximity).
 
 ## Brand & Tone
 Playful yet credible. Approachable enough for casual horse owners, serious enough for professional breeders. Warm, community-feel with a touch of wit.
